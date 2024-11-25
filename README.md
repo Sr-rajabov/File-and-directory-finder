@@ -21,4 +21,18 @@ After installing Git, you can clone a repository as follows:
    ```bash
    cd path/to/your/directory
 
+3. Enter the command to clone the repository:
+   ```bash
+   git clone https://github.com/Sr-rajabov/File-and-directory-finder.git
+#### 3. Using a Graphical Interface (e.g., GitHub Desktop)
+1. Install [GitHub Desktop](https://desktop.github.com/) if you haven't already.
+2. After installation, open GitHub Desktop.
+3. Log in to your account (if required).
+4. Click on "File" in the top menu and select "Clone repository...".
+5. Choose the repository you want or enter its URL.
+6. Set the folder where you want to clone the repository, then click "Clone".
+
+## Preview
+![Demo](C:\Users\HP\Documents\FIND\Pictures\main.gif)
+
 
