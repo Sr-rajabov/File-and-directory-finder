@@ -36,4 +36,5 @@ After installing Git, you can clone a repository as follows:
 ## Demo
 ![preview.gif](Pictures/main.gif)
 
+### Screenshot
 
