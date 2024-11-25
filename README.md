@@ -37,4 +37,4 @@ After installing Git, you can clone a repository as follows:
 ![preview.gif](Pictures/main.gif)
 
 ### Screenshot
-![MainWindow](https://github.com/Sr-rajabov/File-and-directory-finder/commit/3e58c866753fbfa688ed0ce0636a632817efe3b6#diff-83156fabc91b12202caeab9e0f63b6bff2ecb28ae5084b1dc9d942a29781b05d)
+![MainWindow](Pictures/Photo.png)
