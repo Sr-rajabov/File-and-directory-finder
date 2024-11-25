@@ -1,6 +1,7 @@
 ## Find
 **Description**
- Created a multi-threaded analogue of FIND with UI for finding string occurences in the selected folder
+
+Created a multi-threaded analogue of FIND with UI for finding string occurences in the selected folder
  
  ## Cloning a Repository on Windows
 
@@ -36,4 +37,13 @@ After installing Git, you can clone a repository as follows:
 ## Demo
 ![preview.gif](Pictures/main.gif)
 
+### Screenshot
+![MainWindow](Pictures/Photo.png)
 
+### Features
+* monitor file changes
+* ability to delete or rename files and directories in the system 
+* multithreading
+* User interface
+* automatically rebuilding indexes when file is changed
+* stop indexing or searching
