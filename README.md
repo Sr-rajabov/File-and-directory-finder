@@ -33,6 +33,7 @@ After installing Git, you can clone a repository as follows:
 6. Set the folder where you want to clone the repository, then click "Clone".
 
 ## Preview
-![Demo](C:\Users\HP\Documents\FIND\Pictures\main.gif)
+## Demo
+![preview.gif](C:\Users\HP\Documents\FIND\Pictures\main.gif)
 
 
