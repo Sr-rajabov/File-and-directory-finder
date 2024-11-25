@@ -1,5 +1,6 @@
 ## Find
 **Description**
+
 Created a multi-threaded analogue of FIND with UI for finding string occurences in the selected folder
  
  ## Cloning a Repository on Windows
