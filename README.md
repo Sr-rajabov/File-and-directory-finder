@@ -34,6 +34,6 @@ After installing Git, you can clone a repository as follows:
 
 ## Preview
 ## Demo
-![preview.gif](C:\Users\HP\Documents\FIND\Pictures\main.gif)
+![preview.gif](Pictures/main.gif)
 
 
