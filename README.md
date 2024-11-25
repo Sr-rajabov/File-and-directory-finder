@@ -38,3 +38,11 @@ After installing Git, you can clone a repository as follows:
 
 ### Screenshot
 ![MainWindow](Pictures/Photo.png)
+
+### Features
+* monitor file changes
+* ability to delete or rename files and directories in the system 
+* multithreading
+* User interface
+* automatically rebuilding indexes when file is changed
+* stop indexing or searching
